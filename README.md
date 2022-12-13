@@ -61,7 +61,7 @@ hcd_proj_part4_individual_analysis
 │   ├── Part1_Visualization_Explanation.pdf
 │   ├── Part2_Extension_Plan_Sravan.pdf
 │   ├── Part3_COVID_impact_on_employment.pptx
-│   └── Part4_Repot_Document.pdf
+│   └── Part4_Final_Report_Document.pdf
 └── requirements.txt
 
 ```
